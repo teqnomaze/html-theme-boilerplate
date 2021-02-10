@@ -1,0 +1,15 @@
+/*
+Version: 1.0.0
+License: GNU General Public License
+*/
+
+// Import theme variables
+@import "variables";
+
+// Impoert bootstrap functions
+@import "../../node_modules/bootstrap/scss/functions";
+@import "../../node_modules/bootstrap/scss/variables";
+@import "../../node_modules/bootstrap/scss/mixins";
+
+/* Theme styles */
+@import "theme";

@@ -1,3 +1,38 @@
+$font-family-base:      	    "Helvetica Neue", Helvetica, sans-serif;
+
 $primary:                     #7952b3;
 $secondary:                   #0090FF;
-$font-family-base:      	    "Helvetica Neue", Helvetica, sans-serif;
+
+$customcolor1:                #2A6F4D;
+$customcolor2:                #DE4343;
+
+$theme-colors: (
+  "customcolor1":	          $customcolor1,
+  "customcolor2":             $customcolor2
+);
+
+$primary:                     #1D3B5D;
+$secondary:                   #0090FF;
+$headings-color:              #0090FF;
+
+$headings-font-weight:     	  700;
+$head-font-size-base:      	  0.8rem;
+$headings-margin-bottom:      1.5rem;
+$h1-font-size:            	  $head-font-size-base * 2.5 !default;
+$h2-font-size:            	  $head-font-size-base * 2.25 !default;
+$h3-font-size:            	  $head-font-size-base * 1.75 !default;
+$h4-font-size:            	  $head-font-size-base * 1.5 !default;
+$h5-font-size:             	  $head-font-size-base * 1.25 !default;
+$h6-font-size:            	  $head-font-size-base !default;
+
+$form-group-margin-bottom: 	  1.5rem;
+
+$display1-size:               5rem;
+$display2-size:               4rem;
+$display3-size:               3rem;
+$display4-size:               2rem;
+
+$display1-weight:             400;
+$display2-weight:             400;
+$display3-weight:             400;
+$display4-weight:             400;

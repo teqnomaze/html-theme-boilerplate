@@ -1,5 +1,5 @@
 # HTML Starter Template
-A starter template for bootstrap with minimal files.
+A starter HTML template for bootstrap with minimal files.
 
 ### Requirements
 Following are the required dependencies:

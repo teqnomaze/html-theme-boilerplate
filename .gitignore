@@ -1,3 +1,7 @@
+assets/vendor
+assets/css/*.min.css
+assets/js/*.min.js
+
 # npm stuff
 node_modules
 package-lock.json
